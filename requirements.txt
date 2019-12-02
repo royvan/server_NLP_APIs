@@ -24,7 +24,7 @@ Markdown==2.6.11
 mwapi==0.5.1
 mwcli==0.0.2
 mwviews==0.1.0
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.14.2
 pandas==0.22.0
 para==0.0.6
