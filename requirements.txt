@@ -32,7 +32,7 @@ pipreqs==0.4.9
 protobuf==3.5.2.post1
 python-dateutil==2.6.1
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 s3transfer==0.1.13
 scipy==1.0.1
